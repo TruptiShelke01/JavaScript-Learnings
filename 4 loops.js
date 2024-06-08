@@ -11,6 +11,7 @@ for (let i = 0; i < 100; i++) {
 }
 
 
+
 //forin loop
 const obj = {
     name:"Trupti",
@@ -51,3 +52,4 @@ do {
     console.log(p)
     p++
 } while (p<5);
+

@@ -18,7 +18,7 @@ console.log(typeof a,typeof b,typeof c,typeof d,typeof e,typeof y,typeof k);
 
 //following object datatype
 const item={
-    name :"rahul",
+    name :"rohan",
     roll : 11
 }
 console.log(item)

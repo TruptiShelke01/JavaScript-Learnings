@@ -3,7 +3,7 @@ console.log("here are information about how loops works in javascript");
 //There are many types of loops in JS
 
 //For loop
-let a =60;
+let a = 60;
 for (let i = 0; i < 100; i++) {
     const element = a + i;
     console.log(element)

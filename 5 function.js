@@ -18,7 +18,7 @@ function add(p,q) {
     return p+q
     //by return we are able to store in variable sum
 }
-sum= add(2,4)
+sum = add(7,4)
 console.log("addition is " ,  sum)
 
 //there is also one more type of function that is arrow function

@@ -2,12 +2,12 @@ console.log("Here is code about if,else,else if ladder in JS");
 //semicolons are optional in javasctript
 let age = 45;
 
-if(age>=18){
+if(age>18){
     console.log("you can drive")
 
 }
 else{
-    console.log("you can not drive")
+    console.log("you can not drive ")
 }
 //semocolons are optional in js
 let b = 90;

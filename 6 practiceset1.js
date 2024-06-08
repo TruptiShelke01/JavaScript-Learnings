@@ -1,6 +1,6 @@
 //just try to add number to string also try find type of ths string
 
-let a ="ram";
+let a ="rama";
 console.log(typeof a);
 let c =a+10;
 console.log(c)

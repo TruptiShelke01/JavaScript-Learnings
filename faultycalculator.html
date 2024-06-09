@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+    let random = Math.random()
+    
+    let a = prompt("Enter one number");
+    let b = prompt("Enter operation");
+    let c = prompt("Enter second no");
+    
+    let obj={
+        "+":"-",
+        "*":"/",
+        "-":"-",
+        "/":"**"
+    
+    }
+    
+    if(random>0.1){
+        // console.log(`ans is ${a} ${b} ${c}`)
+        alert(`ans is ${eval(`${a} ${b} ${c}`)}`)
+    }
+     
+    else{
+        c=obj[c]
+        // console.log(`ans is ${a} ${b} ${c}`)
+        alert(`ans is ${eval(`${a} ${b} ${c}`)}`)
+  
+    
+    }
+    </script>
+<body>
+    
+</body>
+</html>

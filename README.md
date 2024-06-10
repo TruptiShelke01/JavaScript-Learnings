@@ -7,3 +7,4 @@ I am learning Frontend We Developement so here my javascript learnings. This wil
 -OOP language<br>
 -semicolons are optional in javasctript<br>
 -Strings are IMMUTABLE in JS
+-null,arrays type is OBJECT
